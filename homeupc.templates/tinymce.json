@@ -1,7 +1,7 @@
 [
 	{"title": "2 columnes", "url": "++theme++homeupc/tinymce-templates/2-columnes.html"},
 	{"title": "3 columnes", "url": "++theme++homeupc/tinymce-templates/3-columnes.html"},
-	{"title": "4 columnes", "url": "++theme++homeupc/tinymce-templates/4-columnes.html"},	
+	{"title": "4 columnes", "url": "++theme++homeupc/tinymce-templates/4-columnes.html"},
 	{"title": "Abreviació", "url": "++theme++homeupc/tinymce-templates/abreviacio.html"},
 	{"title": "Acordió imatges", "url": "++theme++homeupc/tinymce-templates/acordio-imatges.html"},
 	{"title": "Acordió simple", "url": "++theme++homeupc/tinymce-templates/acordio-simple.html"},
@@ -56,7 +56,7 @@
 	{"title": "Notificació error", "url": "++theme++homeupc/tinymce-templates/notificacio-error.html"},
 	{"title": "Perill", "url": "++theme++homeupc/tinymce-templates/perill.html"},
 	{"title": "Pestanyes", "url": "++theme++homeupc/tinymce-templates/pestanyes.html"},
-	{"title": "Plantilla retalls de diari", "url": "++theme++homeupc/tinymce-templates/plantilla-retalls-diari.html"},	
+	{"title": "Plantilla retalls de diari", "url": "++theme++homeupc/tinymce-templates/plantilla-retalls-diari.html"},
 	{"title": "Popover", "url": "++theme++homeupc/tinymce-templates/popover.html"},
 	{"title": "Taula bordejat", "url": "++theme++homeupc/tinymce-templates/taula-bordejat.html"},
 	{"title": "Taula condensada", "url": "++theme++homeupc/tinymce-templates/taula-condensada.html"},
