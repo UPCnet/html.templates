@@ -39,7 +39,7 @@
 	{"title": "Fitxa dreta", "url": "++theme++homeupc/tinymce-templates/fitxa-dreta.html"},
 	{"title": "Fitxa esquerra", "url": "++theme++homeupc/tinymce-templates/fitxa-esquerra.html"},
 	{"title": "Link banner", "url": "++theme++homeupc/tinymce-templates/link-banner.html"},
-	{"title": "Link banner", "url": "++theme++homeupc/tinymce-templates/link-banner-minimal.html"},
+	{"title": "Link banner minimal", "url": "++theme++homeupc/tinymce-templates/link-banner-minimal.html"},
 	{"title": "Llista de seccions amb icones", "url": "++theme++homeupc/tinymce-templates/llista-de-seccions-amb-icones.html"},
 	{"title": "Llista ordenada de seccions", "url": "++theme++homeupc/tinymce-templates/llista-ordenada-de-seccions.html"},
 	{"title": "Llistat de seccions", "url": "++theme++homeupc/tinymce-templates/llistat-de-seccions.html"},
